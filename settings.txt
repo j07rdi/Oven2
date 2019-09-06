@@ -1,0 +1,1 @@
+{"": "", "Stepper_COM": "/dev/cu.usbserial-DN01DS51", "Temp_COM": "/dev/cu.usbmodem142301", "maxFS": 3200}
